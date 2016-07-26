@@ -124,6 +124,12 @@ Alles begann 1990 in Zwickau mit der Vision der computerintegrierten Produktion.
 
 ![n3]({{ site.url }}/images/logos/n3.png){: .company-logo } 
 
+Das Team der n³ data & software science GmbH bringt Data Science und Big Data in den Mittelstand. Ziel ist die Abdeckung der Wertschöpfungskette durch Daten. 2013 wurde n³ in die Top 100-Liste aufgenommen und als eines der innovativsten mittelständischen Unternehmen ausgezeichnet. Das VisualCockpit von n³ war 2014 Branchensieger BI der Initiative Mittelstand. 2016 war n³ mit der "n³ analytical platform" erneut unter den Finalisten des Preises, mit der allgemeingültige Strukturen für ein smartes Data Handling im Produktionsumfeld entwickelt werden. 
+
+2016 geht n³ ein Joint Venture mit der Simba Computer Systeme GmbH in Ostfildern bei Stuttgart ein. Nach dem organisatorischem Abschluss wird n³ zukünftig unter dem Firmennamen Simba n³ Software GmbH firmieren. Simba n³ verfügt dann im Verbund mit Simba  über Ressourcen von 80 Mitarbeitern und agiert an 4 Standorten in Deutschland.
+
+###### Webseite: <http://www.nhochdrei.de>
+
 #### TTI GmbH – TGU Interaktion.biz (TTI)
 
 ![TTI]({{ site.url }}/images/logos/TTI.png){: .company-logo } 
